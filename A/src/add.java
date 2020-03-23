@@ -7,7 +7,7 @@ public class add {
    System.out.println(ch);
   
    for(int j=ch.length()-1;j>=0;j--){System.out.println(ch.charAt(j));
-   System.out.println("jayapal");
+ 
    }
 	}
 
